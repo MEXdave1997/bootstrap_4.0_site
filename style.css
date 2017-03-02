@@ -7,6 +7,7 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	color: white;
+	border-radius: 0;
 }
 #bootstrap-link {
 	text-decoration: none;
@@ -15,6 +16,10 @@ body {
 #bootstrap-link:hover {
 	text-decoration: underline;
 	color: #014c8c;
+}
+#info-cards {
+	margin-bottom: 20px;
+	padding-bottom: 5px;
 }
 #card-blocks {
 	padding-bottom: 20px;
