@@ -1,7 +1,20 @@
+body {
+	background: #f5f5dc;
+}
 .jumbotron {
 	text-align: center;
-	background-color: rgba(41, 43, 44, 0.6);
+	background: url(imgs/los-angeles-skyline.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
 	color: white;
+}
+#bootstrap-link {
+	text-decoration: none;
+	color: white;
+}
+#bootstrap-link:hover {
+	text-decoration: underline;
+	color: #014c8c;
 }
 #card-blocks {
 	padding-bottom: 20px;
@@ -12,5 +25,6 @@
 	background-color: #292b2c !important;
 	padding-bottom: 5px;
 	padding-top: 20px;
-	/*margin-top: 10px;*/
+	margin-top: 5px;
+	margin-bottom: 0;
 }
