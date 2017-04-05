@@ -43,6 +43,9 @@ body {
 .form-button {
 	margin-top: 20px;
 }
+#Contact {
+	margin-bottom: 40px;
+}
 .footer {
 	text-align: center;
 	background-color: #292b2c !important;
