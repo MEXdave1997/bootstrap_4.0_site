@@ -25,6 +25,10 @@ body {
 	padding-bottom: 20px;
 	margin-bottom: 20px;
 }
+.container-fluid {
+	margin-top: 15px;
+	margin-bottom: 25px;
+}
 .card-button {
 	margin-left: 5px;
 	margin-right: 5px;
