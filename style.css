@@ -40,6 +40,10 @@ body {
 	padding-bottom: 25px;
 	background: #ffffff;
 }
+.form-header {
+	text-align: center;
+	font-size: 3em;
+}
 .form-button {
 	margin-top: 20px;
 }
